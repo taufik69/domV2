@@ -1,0 +1,25 @@
+.Counter {
+  text-align: center;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  column-gap: 10px;
+}
+
+.btn {
+  padding: 10px;
+  background: #000;
+  color: white;
+}
+.btn {
+  padding: 10px;
+  background: #000;
+  color: white;
+}
+.btn {
+  padding: 10px;
+  background: #000;
+  color: white;
+}
